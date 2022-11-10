@@ -1,0 +1,27 @@
+{
+  "name": "only-toast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "index.mjs",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzaini30/only-toast.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mzaini30/only-toast/issues"
+  },
+  "homepage": "https://github.com/mzaini30/only-toast#readme",
+  "dependencies": {
+    "sweetalert2": "^11.6.7"
+  }
+}

@@ -1,0 +1,13 @@
+lockfileVersion: 5.4
+
+specifiers:
+  sweetalert2: ^11.6.7
+
+dependencies:
+  sweetalert2: 11.6.7
+
+packages:
+
+  /sweetalert2/11.6.7:
+    resolution: {integrity: sha512-nbsmUtfTodJvZ873sn61U0brrHtn8xi8wfn+bVVc9IV05fgOdDMhAhdQ2zQJBYsvggbbp46ZFHMr0/fZJnZPtQ==}
+    dev: false
