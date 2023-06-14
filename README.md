@@ -3,13 +3,13 @@
 ## Install
 
 ```bash
-npm install only-toast
+pnpm i only-toast
 ```
 
 ## Usage
 
 ```js
-import Toast from "only-toast";
+import toast from "only-toast";
 
-Toast("Hello World");
+toast("Hello World");
 ```
